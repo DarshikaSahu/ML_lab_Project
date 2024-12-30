@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: ML-Project
+Version: 0.0.1
+Author: Darshika Sahu
+Author-email: sahudarshika@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: xgboost
+Requires-Dist: nltk
+Requires-Dist: textblob
+Requires-Dist: scikit-learn
+Requires-Dist: scipy
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
